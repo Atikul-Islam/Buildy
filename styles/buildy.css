@@ -1,0 +1,37 @@
+*{
+    margin: none;
+    padding: none;
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 89px;
+
+}
+.icon{
+    display: flex;
+    align-items: center;
+    height: 33.72px;
+    width: 168.36px;
+}
+.icon-text{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+
+}
+.icon-text img{
+    padding: 2px;
+}
+nav a{
+    text-decoration: none;
+    color: #171818;
+    padding-left: 20px;
+}
+.drawer{
+    width: 20.07px;
+    height: 15.61px;
+    color: #171818;
+}
